@@ -1,0 +1,16 @@
+head 파일에서 style 이용한 글자 색상 변경과
+일반적인 글자 색상 변경
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h2{color:blue}
+      </style>
+  </head>
+  <body>
+    <h1 style="color:red">Hello World<h2>
+      <h2>Hello World<h2>
+  </body>
+  </html>
