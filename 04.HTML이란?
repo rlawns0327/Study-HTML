@@ -4,7 +4,7 @@ HyperText Markup Language 의 약자
 
 HyperText : 문서와 문서가 링크로 연결되어 있는 시스템을 뜻한다.
 Markup  :  파일이 화면에서 어떻게 보여야할 것인지를 나타내기 위한 태그모음.
-Language : 언어
+Language : 언어.
 
 링크는 HTML의 본질
 HTML의 본질은 웹의 본질.
@@ -23,7 +23,3 @@ EX)
     안녕하세요. <strong>김준</strong>입니다.
   </body>
 </html>
-
-
-
-
