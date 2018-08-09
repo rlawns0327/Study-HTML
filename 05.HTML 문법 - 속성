@@ -1,0 +1,19 @@
+HTML 문법 – 속성
+
+<a href=“http://링크”>, </a> – 링크 태그
+
+href : 속성 명
+“ ”  : 속성 값
+
+ex)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+   <a href="http://naver.com" >네이버</a>(현재 창에서 열기)
+ <a href="http://naver.com" target="_blank">네이버</a>(새 창에서 열기)
+  </body>
+</html>
