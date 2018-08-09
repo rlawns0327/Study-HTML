@@ -1,0 +1,41 @@
+HTML 문법 – 태그의 중첩
+
+li 태그(list의 약자) 
+
+ul 태그(unordered list : 순서가 없는 리스트)	┐
+						├  list를 구분 짓기 위한 그룹핑 역할
+ol 태그(ordered list : 순서가 있는 리스트)		┘
+	
+    <ol>
+      <li>html</li>					1. html
+      <li>css</li>					2 .css
+      <li>JavaScript</li>					3. JavaScript
+    </ol>
+
+    <ul>
+      <li>최진혁</li>				        ● 최진혁
+      <li>최유빈</li>        				● 최유빈
+      <li>한이람</li>					● 한이람
+    </ul>
+
+
+ex)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <ol>
+      <li>html</li>
+      <li>css</li>
+      <li>JavaScript</li>
+    </ol>
+    <ul>
+      <li>최진혁</li>
+      <li>최유빈</li>
+      <li>한이람</li>
+    </ul>
+  </body>
+</html>
