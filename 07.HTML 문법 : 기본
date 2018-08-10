@@ -9,7 +9,8 @@ body 태그 : 웹 페이지에서 본문에 해당되는 내용이 들어가는 
 
 html 태그 : 자신 안에 있는 것들이 HTML 문서임을 브라우저에게 알려주는 역할.
 
-ex)
+
+HTML 기본 
 
 <!DOCTYPE html>
 <html>
